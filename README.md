@@ -35,7 +35,7 @@ Publish the website in the LocalHost.
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Web Development</title>
+        <title>Full-stack Development</title>
         <link rel="stylesheet" href="{% static 'css/index.css' %}">
         <style>
             body{
